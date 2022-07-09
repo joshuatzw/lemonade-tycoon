@@ -1,0 +1,37 @@
+div.main-div {
+  /* display: flex; */
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+button{
+  /* display: flex; */
+  align-items: center;
+}
+
+.ingredient-title {
+  font-size: x-large;
+}
+
+div.proportions {
+  margin: 20px 0px;
+  padding: 10px 0px;
+  color: #FF8B8B;
+}
+
+.ingredient {
+  width: 50%;
+  margin: 0 auto
+}
+
+.ingredient button{
+  width: 30px;
+  margin-right: 0;
+}
+
+.ingredient span{
+  width: 30px;
+  align-content: flex-start;
+}
